@@ -221,6 +221,47 @@ export WHISPER_MODEL=small  # good balance
 
 ---
 
+## ⚠️ Limitations
+
+- Slower processing for long videos  
+- No visual understanding (charts/images)  
+- Dependent on external APIs  
+
+---
+
+## 🔮 Future Improvements
+
+- 🌍 Multi-language support  
+- 🧠 Visual content understanding  
+- ⚡ Faster processing pipeline  
+- 📱 Mobile application  
+
+---
+
+## 👩‍💻 Contributors
+
+- Samala Jahnavi  
+- Mahveen Zaakia  
+- Katakam Akshitha  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+```bash id="contrib1"
+# Fork the repo
+# Create your feature branch
+git checkout -b feature/new-feature
+
+# Commit changes
+git commit -m "Add new feature"
+
+# Push to branch
+git push origin feature/new-feature
+```
+
 ## 🎓 For Students
 
 This app was built as a student project demonstrating:
@@ -232,5 +273,15 @@ This app was built as a student project demonstrating:
 - Modern responsive UI design
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you found this useful, consider giving it a ⭐ on GitHub!
 
 *Built with ❤️ for students, by students.*
