@@ -40,9 +40,10 @@
 ## 🎬 Demo
 
 <div align="center">
-
-![StudyBot Demo](assets/demo.mp4)
-
+![StudyBot Demo](assets/demo.gif)
+ 
+> 💡 **Can't see the GIF?** [▶ Download & watch demo video](assets/demo.mp4)
+ 
 </div>
 
 ---
