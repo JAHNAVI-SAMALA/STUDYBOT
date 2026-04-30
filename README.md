@@ -100,11 +100,13 @@ pip install flask yt-dlp openai-whisper anthropic
 
 > **Note:** `openai-whisper` will download the Whisper model (~75 MB for `base`) on first transcription run. This is cached locally for future use.
 
-### 4. Get your Anthropic API key
+### 4. Get your Groq API key
 
-1. Go to [https://console.anthropic.com](https://console.anthropic.com)
-2. Create an account and go to **API Keys**
-3. Create a new key and copy it
+1. Go to [https://console.groq.com](https://console.groq.com)
+2. Create an account or sign in
+3. Navigate to **API Keys**
+4. Click **Create API Key**
+5. Copy and securely save your key
 
 ### 5. Set your API key
 
