@@ -10,23 +10,23 @@
 
 <table>
   <tr>
-    <td><img src="assets/screenshots/login.png" alt="Login" width="340"/></td>
-    <td><img src="assets/screenshots/dashboard.png" alt="Dashboard" width="340"/></td>
-    <td><img src="assets/screenshots/summary.png" alt="Summary" width="340"/></td>
+    <td><img src="assets/screenshots/Home.png" alt="Home" width="340"/></td>
+    <td><img src="assets/screenshots/Register.png" alt="Registration" width="340"/></td>
+    <td><img src="assets/screenshots/Login.png" alt="Login" width="340"/></td>
   </tr>
   <tr>
-    <td align="center"><b>🔐 Login / Register</b></td>
+    <td align="center"><b>🏠 Home</b></td>
+    <td align="center"><b>🔐 Registration</b></td>
+    <td align="center"><b>🔐 Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/Dashboard.png" alt="Dashboard" width="340"/></td>
+    <td><img src="assets/screenshots/Summary.png" alt="Summary and Chat" width="340"/></td>
+    <td><img src="assets/screenshots/Audio.png" alt="Audio Summary" width="340"/></td>
+  </tr>
+  <tr>
     <td align="center"><b>🏠 Dashboard</b></td>
-    <td align="center"><b>🎥 Video Summary</b></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/chatbot.png" alt="Chatbot" width="340"/></td>
-    <td><img src="assets/screenshots/history.png" alt="History" width="340"/></td>
-    <td><img src="assets/screenshots/audio.png" alt="Audio" width="340"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>💬 AI Chatbot</b></td>
-    <td align="center"><b>📚 History Sidebar</b></td>
+    <td align="center"><b>🎥 Summary and 💬 AI Chatbot</b></td>
     <td align="center"><b>🔊 Audio Summary</b></td>
   </tr>
 </table>
