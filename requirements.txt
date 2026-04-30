@@ -1,0 +1,11 @@
+flask>=3.0.0
+groq>=0.9.0
+youtube-transcript-api>=0.6.2   # fast path  — captions (instant)
+yt-dlp>=2024.1.1                 # slow path  — audio download (fallback)
+openai-whisper>=20231117         # slow path  — local transcription (fallback)
+
+# System requirement (not pip) — only needed for Whisper fallback:
+# ffmpeg must be installed and available on PATH
+#   Mac:   brew install ffmpeg
+#   Linux: sudo apt install ffmpeg
+#   Win:   https://ffmpeg.org/download.html
